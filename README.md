@@ -1,2 +1,2 @@
-# AKE
-Software Development for "Association of Kalkuda Engineers"
+# Association of Kalkuda Engineers
+Repository containing codes for Mobile app and web app of the association..
